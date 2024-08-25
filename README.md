@@ -1,9 +1,12 @@
-## Hi there 👋
+## Hi there, I am Yoel 👋
 
 <!--
 **Yoel-stack/Yoel-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+<a href="https://github.com/pingcap/ossinsight/discussions" target="_blank">
+<img src=https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
