@@ -7,10 +7,10 @@
 <img src=https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 
 <a href="https://github.com/pingcap/ossinsight/discussions" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=181717&style=for-the-badge&logo=linkedin&logoColor=rbg#008B8B	 alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=181717&style=for-the-badge&logo=linkedin&logoColor=#4aaff3 alt=linkedin style="margin-bottom: 5px;" />
   
 <a href="https://github.com/pingcap/ossinsight/discussions" target="_blank">
-<img src=https://img.shields.io/badge/discord-%2300acee.svg?color=181717&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/discord-%F73E68.svg?color=181717&style=for-the-badge&logo=discord&logoColor=#327bad alt=discord style="margin-bottom: 5px;" />
 
 <a href="https://github.com/pingcap/ossinsight/discussions" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%2300acee.svg?color=181717&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
@@ -22,7 +22,7 @@
  - I’m looking to collaborate on ...
  - I’m interesting this Java Script programming lenguage 🤔
  - I like at every moment be learning, informing me and be updated in this programming world 💬
- - How to reach me: ymontelongoo0@gmail.com 📫 
+ - How to reach me:  📫 
 
 <div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" 
