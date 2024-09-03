@@ -4,16 +4,16 @@
 <h2>🤝🏻 Connect whith me</h2>
 
 <a href="" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=4747F9&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+
+<a href="" target="_blank">
 <img src=https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-
-<a href="https://github.com/pingcap/ossinsight/discussions" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=181717&style=for-the-badge&logo=linkedin&logoColor=#4aaff3 alt=linkedin style="margin-bottom: 5px;" />
   
-<a href="https://github.com/pingcap/ossinsight/discussions" target="_blank">
-<img src=https://img.shields.io/badge/discord-%F73E68.svg?color=181717&style=for-the-badge&logo=discord&logoColor=#327bad alt=discord style="margin-bottom: 5px;" />
+<a href="" target="_blank">
+<img src=https://img.shields.io/badge/discord-%F73E68.svg?color=595DD5&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
 
-<a href="https://github.com/pingcap/ossinsight/discussions" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%2300acee.svg?color=181717&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<a href="" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=D83826&style=for-the-badge&logo=gmail&logoColor=white alt=Gmail style="margin-bottom: 5px;" />
 
 <h2>📜About Me</h2>
 
