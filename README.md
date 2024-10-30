@@ -1,28 +1,14 @@
-<Div aling=center>  
-   <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Yoel+%F0%9F%91%8B;+I+hope+you+like+my+profile+🧐" alt="Headline" />
-<Div>      
+<p align="center">
+<div align="center">
+   
+<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Yoel+%F0%9F%91%8B;+I+hope+you+like+my+profile+🧐" alt="Headline" />
+      
 <h2>🤝🏻 Connect whith me</h2>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/1010nishant/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/7fbfea45-6b15-46c3-83c8-be240cf5d852" alt="linkedin" height="50" width="50" /></a>
-<a href="https://gmail.com/1010nishant" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/" alt="gmail" height="50" width="50" /></a> 
-<a href="https://www.instagram.com/nishant.jangir.1010/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://1010nishant.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
-<a href="https://discordapp.com/users/957722095381540874" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-  
-</p>
-
-<a href="" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=4747F9&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-
-<a href="" target="_blank">
-<img src=https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-  
-<a href="" target="_blank">
-<img src=https://img.shields.io/badge/discord-%F73E68.svg?color=595DD5&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
-
-<a href="" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=D83826&style=for-the-badge&logo=gmail&logoColor=white alt=Gmail style="margin-bottom: 5px;" />
+<a href="https://github.com/Yoel-stack" target="blank"><img align="center" src="https://user-images.githubusercontent.com/64439609/212556741-81407849-82c8-4926-854f-820e8a644375.png" alt="github" height="60" width="60" /></a>
+<a href="https://www.linkedin.com/in/yoel-montelongo-54687b321/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="50" width="50" /></a>
+<a href=" " target="blank"><img align="center" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" alt="discord" height="50" width="50" /></a>
+<a href=" " target="blank"><img align="center" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/gmail.svg" alt="gmail" height="50" width="48" /></a>
 
 <h2>📜About Me</h2>
 
@@ -51,6 +37,4 @@
 <a href="" target="_blank">
 <img src=https://img.shields.io/badge/windows-%2300acee.svg?color=181717&style=for-the-badge&logo=windows&logoColor=white alt=windows style="margin-bottom: 5px;" />
 
-
-
-
+</div>
