@@ -13,12 +13,10 @@
 <h2>📜About Me</h2>
 
  - I’m currently studing programming and web developer 🔭
- - I’m currently learning ...
- - I’m looking to collaborate on ...
+ - I am currently learning Database also React and NodeJs all with the same framework Next.Js 📝
  - I’m interesting this Java Script programming lenguage 🤔
  - I like at every moment be learning, informing me and be updated in this programming world 💬
- - How to reach me:  📫 
-
+   
 <div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" 
         alt="GitHub Octocat Logo" height="100">
