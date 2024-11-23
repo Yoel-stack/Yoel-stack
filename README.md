@@ -31,7 +31,7 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="visual_studio_code" width="40" height="40"/>
 
-<h2>🧑‍💻Operating Systems</h2>
+<h2>🧑‍💻Operating Systems:</h2>
 <a href="" target="_blank">
 <img src=https://img.shields.io/badge/windows-%2300acee.svg?color=181717&style=for-the-badge&logo=windows&logoColor=white alt=windows style="margin-bottom: 5px;" />
 
