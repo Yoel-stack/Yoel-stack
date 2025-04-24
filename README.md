@@ -1,7 +1,7 @@
 <p align="center">
 <div align="center">
    
-<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Yoel+%F0%9F%91%8B;+I+hope+you+like+my+profile+🧐" alt="Headline" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%300FDA33&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Yoel+%F0%9F%91%8B;+I+hope+you+like+my+profile+🧐" alt="Headline" />
       
 <h2>🤝🏻Connect whith me</h2>
 
@@ -38,7 +38,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="visual_studio_code" width="40" height="40"/>
 
 <h2>🧑‍💻Operating Systems</h2>
-<a href="" target="_blank">
-<img src=https://img.shields.io/badge/windows-%2300acee.svg?color=181717&style=for-the-badge&logo=windows&logoColor=white alt=windows style="margin-bottom: 5px;" />
+ <a href="https://www.microsoft.com/en-us/windows/" target="_blank"> 
+    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" width="90" height="30"/>
+  </a>
 
 </div>
