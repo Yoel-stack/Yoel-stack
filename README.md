@@ -31,6 +31,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/html5-scm/html5-scm-icon.svg" alt="html5" width="40" height="40"/>
+
 
 
 <h2>⚒️Tools</h2>
