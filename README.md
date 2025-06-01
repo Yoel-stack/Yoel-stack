@@ -7,7 +7,7 @@
 
 <a href="https://github.com/Yoel-stack" target="blank"><img align="center" src="https://user-images.githubusercontent.com/64439609/212556741-81407849-82c8-4926-854f-820e8a644375.png" alt="github" height="60" width="60" /></a>
 <a href="https://www.linkedin.com/in/yoel-montelongo-54687b321/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="50" width="50" /></a>
-<a href="https://discord.com/users/250775929716998144" target="blank"><img align="center" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" alt="discord" height="50" width="50" /></a>
+<a href="https://discord.com/users/1280246623250812939" target="blank"><img align="center" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" alt="discord" height="50" width="50" /></a>
 <a href=" " target="blank"><img align="center" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/gmail.svg" alt="gmail" height="50" width="48" /></a>
 
 <h2>📜About Me</h2>
